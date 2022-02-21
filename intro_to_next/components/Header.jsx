@@ -4,7 +4,7 @@ export const Header = () => {
   return (
     <div>
       <h1 className={headerStyles.title}>
-        <span>Ori's </span>Profile
+        <span>My </span>Profile
         <p className={headerStyles.description}>
           Keep up to date with what i am doing
         </p>
